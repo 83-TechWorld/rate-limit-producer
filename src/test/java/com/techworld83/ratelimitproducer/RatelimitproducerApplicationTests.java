@@ -1,4 +1,4 @@
-package com._techworld.ratelimitproducer;
+package com.techworld83.ratelimitproducer;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
